@@ -18,7 +18,7 @@ You may overwrite default element spacing with css variable `--config-css-reset-
 
 ---
 
-1.1.0 | improve enqueue method
+1.1.1 | improve enqueue method
 
 1.0.4 | adjust modules path
 
