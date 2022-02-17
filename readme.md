@@ -6,7 +6,7 @@ Base CSS for theme frontend and block editor.
 
 ---
 
-Version: 1.1.0
+Version: 1.1.1
 
 Author: Ben @ https://modularity.group
 
