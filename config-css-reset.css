@@ -87,7 +87,7 @@ ol {
 ul ul {
   list-style: circle;
   margin-bottom: 0;
-  padding-left: 1em;
+  padding-left: var(--base-space);
 }
 
 nav ul, nav ul ul {
@@ -99,7 +99,7 @@ nav ul, nav ul ul {
 ul ul {
   list-style: circle;
   margin-bottom: 0;
-  padding-left: 1em;
+  padding-left: var(--base-space);
 }
 
 img {
@@ -119,8 +119,7 @@ iframe {
   display: block;
 }
 
-hr,
-hr.wp-block-separator {
+hr {
   border: 0;
   border-top: 1px solid #eee;
   margin: 2em 0;

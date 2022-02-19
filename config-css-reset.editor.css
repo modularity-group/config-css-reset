@@ -46,7 +46,7 @@
 
 .editor-styles-wrapper a:hover {
   color: #111;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 .editor-styles-wrapper a:focus,
@@ -111,8 +111,7 @@
   display: block;
 }
 
-.editor-styles-wrapper hr,
-.editor-styles-wrapper hr.wp-block-separator {
+.editor-styles-wrapper hr {
   border: 0;
   border-top: 1px solid #eee;
   margin: 2em 0;
