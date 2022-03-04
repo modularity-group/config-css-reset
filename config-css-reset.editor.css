@@ -71,7 +71,8 @@
 .editor-styles-wrapper ul,
 .editor-styles-wrapper ol {
   margin-top: 0;
-  padding-left: var(--base-space);
+  padding: 0;
+  list-style-position: inside;
   margin-bottom: var(--base-space);
 }
 
