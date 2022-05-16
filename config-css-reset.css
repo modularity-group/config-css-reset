@@ -88,7 +88,7 @@ ol {
 ul ul {
   list-style: circle;
   margin-bottom: 0;
-  list-style-position: inside;
+  list-style-position: outside;
   padding-left: var(--base-space);
 }
 
