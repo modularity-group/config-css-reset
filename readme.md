@@ -6,7 +6,7 @@ Base CSS for theme frontend and block editor.
 
 ---
 
-Version: 1.1.5
+Version: 1.1.6
 
 Author: Ben @ https://modularity.group
 
@@ -17,6 +17,8 @@ License: MIT
 You may overwrite default element spacing with css variable `--config-css-reset-spacer`.
 
 ---
+
+1.1.6 | fix list style reset to outside again
 
 1.1.5 | fix list style reset to outside again
 

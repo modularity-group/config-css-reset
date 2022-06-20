@@ -81,7 +81,7 @@ ul,
 ol {
   margin-top: 0;
   padding: 0;
-  list-style-position: inside;
+  list-style-position: outside;
   margin-bottom: var(--base-space);
 }
 
@@ -101,7 +101,7 @@ nav ul, nav ul ul {
 ol ol {
   list-style: decimal;
   margin-bottom: 0;
-  list-style-position: inside;
+  list-style-position: outside;
   padding-left: var(--base-space);
 }
 
